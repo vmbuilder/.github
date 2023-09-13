@@ -9,3 +9,7 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 - Cloud-init images storage
 - Deploy Virtual machines throw Cloud-init
 - NoVNC access management
+
+## Scheme
+
+![image](platformos.drawio.png)
