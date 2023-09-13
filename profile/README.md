@@ -8,3 +8,4 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 - DNS and DHCP control
 - Cloud-init images storage
 - Deploy Virtual machines throw Cloud-init
+- NoVNC access management
