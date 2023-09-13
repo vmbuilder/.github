@@ -12,4 +12,4 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 
 ## Scheme
 
-![image](platformos.drawio.png)
+![image](profile/platformos.drawio.png)
