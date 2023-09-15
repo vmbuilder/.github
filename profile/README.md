@@ -13,3 +13,11 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 ## Scheme
 
 ![image](profile/platformos.drawio.png)
+
+## Environment
+
+- Three Intel NUC for QEMU/KVM (8Gb RAM, 256 NVMe)
+- One NFS Server (2Tb SSD)
+- 1Gbit Ethernet Switch
+
+![image](profile/lab.jpg)
