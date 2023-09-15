@@ -16,6 +16,7 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 
 ## Environment
 
+- OS Debian 12
 - Three Intel NUC for QEMU/KVM (8Gb RAM, 256 NVMe)
 - One NFS Server (2Tb SSD)
 - 1Gbit Ethernet Switch
