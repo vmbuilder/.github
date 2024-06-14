@@ -12,7 +12,7 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 
 ## Scheme
 
-![image](profile/platformos.drawio.png)
+![image](platformos.drawio.png)
 
 ## Environment
 
@@ -21,4 +21,4 @@ to deploy and manipulate KVM/QEMU virtual machines in small infrastructures.
 - One NFS Server (2Tb SSD)
 - 1Gbit Ethernet Switch
 
-![image](profile/lab.jpg)
+![image](lab.jpg)
